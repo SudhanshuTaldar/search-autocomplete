@@ -1,0 +1,187 @@
+[
+    {
+        "name": "Pizza Hut",
+        "address": "Noida",
+        "rating": "4.5",
+        "email": "pizzahut@test.com"
+    },
+    {
+        "name": "McDonald",
+        "address": "Delhi",
+        "rating": "4.0",
+        "email": "mcdonald@test.com"
+    },
+    {
+        "name": "W B Restaurant",
+        "email": "wbr@test.com",
+        "address": "Noida , Delhi",
+        "rating": "4.3"
+    },
+    {
+        "name": "BBQ nation",
+        "address": "Gurgaon",
+        "rating": "4.5",
+        "email": "bbdn@test.com"
+    },
+    {
+        "name": "Haldiram nation",
+        "address": "Gurgaon",
+        "rating": "4.5",
+        "email": "haldiram@test.com"
+    },
+    {
+        "name": "KFC",
+        "email": "kfc@test.com",
+        "address": "noida",
+        "rating": "4.7"
+
+    },
+    {
+        "name": "KFC1",
+        "email": "kfc@test.com",
+        "address": "South Delhi",
+        "rating": "4.7"
+
+    },
+    {
+        "name": "sid food",
+        "email": "sid@test.com",
+        "address": "Delhi",
+        "rating": "4.1"
+        
+    },
+    {
+        "name": "youtube",
+        "email": "testresto@youtube.com",
+        "rating": "4.9",
+        "address": "google"
+        
+    },
+    {
+        "name": "youtube 2",
+        "email": "testresto2@youtube.com",
+        "rating": "3.1",
+        "address": "google 2"
+        
+    },
+    {
+      "name": "youtube3",
+      "email": "testresto@youtube.com",
+      "rating": "4.9",
+      "address": "google"
+    },
+    {
+      "name": "fb",
+      "email": "testresto@youtube.com",
+      "rating": "4.9",
+      "address": "google"
+    },
+    {
+      "name": "real",
+      "email": "testresto@youtube.com",
+      "rating": "4.9",
+      "address": "google"
+    },
+    {
+      "name": "paprika",
+      "email": "testresto@youtube.com",
+      "rating": "4.9",
+      "address": "google"
+    },
+    {
+      "name": "burst",
+      "email": "testresto@youtube.com",
+      "rating": "4.9",
+      "address": "google"
+    },
+    {
+      "name": "kajus",
+      "email": "testresto@youtube.com",
+      "rating": "4.9",
+      "address": "google"
+    },
+    {
+      "name": "yess",
+      "email": "testresto@youtube.com",
+      "rating": "4.9",
+      "address": "google"
+    },
+    {
+      "name": "melon",
+      "email": "testresto@youtube.com",
+      "rating": "4.9",
+      "address": "google"
+    },
+    {
+      "name": "demo",
+      "email": "testresto@youtube.com",
+      "rating": "4.9",
+      "address": "google"
+    },
+    {
+      "name": "lakend",
+      "email": "testresto@youtube.com",
+      "rating": "4.9",
+      "address": "google"
+    },
+    {
+      "name": "picasso",
+      "email": "testresto@youtube.com",
+      "rating": "4.9",
+      "address": "google"
+    },
+    {
+      "name": "honeychilli",
+      "email": "testresto@youtube.com",
+      "rating": "4.9",
+      "address": "google"
+    },
+    {
+      "name": "yellow",
+      "email": "testresto@youtube.com",
+      "rating": "4.9",
+      "address": "google"
+    },
+    {
+      "name": "red",
+      "email": "testresto@youtube.com",
+      "rating": "4.9",
+      "address": "google"
+    },
+    {
+      "name": "green",
+      "email": "testresto@youtube.com",
+      "rating": "4.9",
+      "address": "google"
+    },
+    {
+      "name": "tulips",
+      "email": "testresto@youtube.com",
+      "rating": "4.9",
+      "address": "google"
+    },
+    {
+      "name": "tulsi",
+      "email": "testresto@youtube.com",
+      "rating": "4.9",
+      "address": "google"
+    },
+    {
+      "name": "highway",
+      "email": "testresto@youtube.com",
+      "rating": "4.9",
+      "address": "google"
+    },
+    {
+      "name": "next",
+      "email": "testresto@youtube.com",
+      "rating": "4.9",
+      "address": "google"
+    },
+    {
+      "name": "stop",
+      "email": "testresto@youtube.com",
+      "rating": "4.9",
+      "address": "google"
+    }
+]
